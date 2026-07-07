@@ -10,10 +10,6 @@
   A premium, interactive AI job interview preparation platform powered by real-time voice agents and automated evaluation metrics.
 </p>
 
-<p align="center">
-  👉 <strong>Live App Deployed URL:</strong> <a href="https://ai-mock-interview-platform-omega-two.vercel.app/">ai-mock-interview-platform-omega-two.vercel.app 🚀</a>
-</p>
-
 ---
 
 ## 🤖 Introduction
@@ -141,8 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 🔗 Project Links & Info
-*   **Live Deployed Application**: [PrepWise Platform on Vercel](https://ai-mock-interview-platform-omega-two.vercel.app/)
+## 🔗 Project Links
 *   **GitHub Repository**: [anumalaakhil18/ai-mock-interview-main](https://github.com/anumalaakhil18/ai-mock-interview-main)
 
 ---
